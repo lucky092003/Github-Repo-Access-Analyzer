@@ -26,3 +26,33 @@ This project helps organizations gain visibility into repository access and user
 
 ---
 
+##  Setup Instructions
+### 1️. Clone the repository
+
+```bash
+git clone https://github.com/lucky092003/Github-Repo-Access-Analyzer.git
+cd github-access-report
+```
+### 2. Install dependencies
+- npm install
+
+### 3. Configure Environment Variables
+Create a .env file in the root directory and add
+- GITHUB_TOKEN=your_github_personal_access_token
+- ORG_NAME=your_github_organization_name
+- PORT=3000
+
+#### How to Generate GitHub Token
+1. Go to GitHub Settings
+2. Navigate to Developer Settings → Personal Access Tokens
+3. Generate a token with permissions:repo , read:org
+
+### 4. Start the server
+- npm start
+-  Server will run on : http://localhost:3000/api/report
+
+### 5. Frontend Dashboard
+Open the HTML file in your browser:
+- 1. index.html
+
+---- 
