@@ -38,9 +38,11 @@ cd github-access-report
 
 ### 3. Configure Environment Variables
 Create a .env file in the root directory and add
+```bash
 - GITHUB_TOKEN=your_github_personal_access_token
 - ORG_NAME=your_github_organization_name
 - PORT=3000
+```
 
 #### How to Generate GitHub Token
 1. Go to GitHub Settings
@@ -61,9 +63,9 @@ Open the HTML file in your browser:
 ## Sample Images
 
 - 1. Frontend View:
-- <img width="1872" height="812" alt="image" src="https://github.com/user-attachments/assets/270fbe44-c01e-483b-9759-ad455e232868" />
+ <img width="1872" height="812" alt="image" src="https://github.com/user-attachments/assets/270fbe44-c01e-483b-9759-ad455e232868" />
 
 - 2. Backend View:
-- <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/51dc6dfd-0b62-410d-af0d-1609bdf3c145" />
+ <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/51dc6dfd-0b62-410d-af0d-1609bdf3c145" />
 
 
