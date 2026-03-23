@@ -56,3 +56,14 @@ Open the HTML file in your browser:
 - 1. index.html
 
 ---- 
+
+
+## Sample Images
+
+- 1. Frontend View:
+- <img width="1872" height="812" alt="image" src="https://github.com/user-attachments/assets/270fbe44-c01e-483b-9759-ad455e232868" />
+
+- 2. Backend View:
+- <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/51dc6dfd-0b62-410d-af0d-1609bdf3c145" />
+
+
